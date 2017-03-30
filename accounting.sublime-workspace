@@ -1,0 +1,504 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dr",
+				"dr_acct_number"
+			],
+			[
+				"addChart",
+				"addChartAccount2"
+			],
+			[
+				"dr_",
+				"dr_acct"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"am",
+				"amount"
+			],
+			[
+				"entry",
+				"entry_memo"
+			],
+			[
+				"entry_",
+				"entry_date"
+			],
+			[
+				"entr",
+				"entry_date"
+			],
+			[
+				"date",
+				"entry_date"
+			],
+			[
+				"cr_a",
+				"cr_acct_number"
+			],
+			[
+				"dr_acct",
+				"dr_acct_number"
+			],
+			[
+				"Journal",
+				"JournalEntry"
+			],
+			[
+				"xmlTex",
+				"xmlTextWriterPtr"
+			],
+			[
+				"nu",
+				"num_of_accounts"
+			],
+			[
+				"num",
+				"num_of_accounts"
+			],
+			[
+				"trial",
+				"trial_balance"
+			],
+			[
+				"A",
+				"Account"
+			],
+			[
+				"a",
+				"account"
+			],
+			[
+				"binding",
+				"binding_mode_indicator"
+			],
+			[
+				"bind",
+				"bindcode"
+			],
+			[
+				"focused",
+				"focused_workspace"
+			],
+			[
+				"no",
+				"no-startup-id"
+			],
+			[
+				"wall",
+				"wallpaper_101"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "acct_1001.c",
+			"settings":
+			{
+				"buffer_size": 2339,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ledger.h",
+			"settings":
+			{
+				"buffer_size": 8674,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "journal.xml",
+			"settings":
+			{
+				"buffer_size": 2922,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/C xml.sublime-build",
+	"command_palette":
+	{
+		"height": 192.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: XML Data"
+			],
+			[
+				"",
+				"Build: Build"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/e403sa/.config/conky/conky_date.conf",
+		"/home/e403sa/Software/c/acct_009.c",
+		"/home/e403sa/.config/i3/config",
+		"/home/e403sa/Software/c/acct_proj/acct_1001.c",
+		"/home/e403sa/Software/c/acct_009",
+		"/home/e403sa/Software/c/acct_proj/accounting.sublime-project",
+		"/home/e403sa/Software/c/acct_proj/gui.h",
+		"/home/e403sa/Software/c/accounting.sublime-project",
+		"/home/e403sa/Software/c/acct_005.c",
+		"/home/e403sa/Software/c/xml_nav_tree.c",
+		"/home/e403sa/Software/c/xml_create_tree.c",
+		"/home/e403sa/.config/sublime-text-2/Packages/User/xml.sublime-snippet",
+		"/home/e403sa/.config/sublime-text-2/Packages/XML/cdata.sublime-snippet",
+		"/home/e403sa/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/e403sa/.config/sublime-text-2/Packages/User/mxl.sublime-snippet",
+		"/home/e403sa/.config/sublime-text-2/Packages/User/main().sublime-snippet",
+		"/home/e403sa/.config/sublime-text-2/Packages/User/C xml.sublime-build",
+		"/home/e403sa/.config/sublime-text-2/Packages/User/#include.sublime-snippet",
+		"/home/e403sa/Software/c/basic.c",
+		"/home/e403sa/.config/sublime-text-2/Packages/User/main.sublime-snippet",
+		"/home/e403sa/.config/sublime-text-2/Packages/C++/if-..-(if).sublime-snippet",
+		"/home/e403sa/.config/sublime-text-2/Packages/User/C.sublime-build",
+		"/home/e403sa/.config/sublime-text-2/Packages/C++/C++.sublime-build",
+		"/home/e403sa/.config/sublime-text-2/Packages/User/gcc_xml.sublime-build",
+		"/home/e403sa/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/e403sa/Software/c/parse_xml2.c",
+		"/home/e403sa/Software/c/journal_xml.c",
+		"/home/e403sa/Software/c/journal.xml",
+		"/home/e403sa/Software/c/welcome.xml",
+		"/home/e403sa/Software/c/journal.csv",
+		"/home/e403sa/.config/conky/conky_bar2.conf",
+		"/home/e403sa/.config/taskwarrior/holidays.en-CA.rc",
+		"/home/e403sa/Software/c/students.c",
+		"/home/e403sa/Software/c/trial_balance003.txt",
+		"/home/e403sa/Software/c/trial_balance002.txt",
+		"/home/e403sa/Software/c/getopt_long.c",
+		"/home/e403sa/Software/c/trial_balance.txt",
+		"/home/e403sa/Software/c/trial.dat",
+		"/home/e403sa/Software/c/getopt_long",
+		"/home/e403sa/Software/c/stars.c",
+		"/home/e403sa/Software/c/input.txt",
+		"/home/e403sa/Software/c/prog001.o",
+		"/home/e403sa/Software/c/print-env.c",
+		"/home/e403sa/Software/c/rotate_cube.c",
+		"/home/e403sa/Software/c/a.out",
+		"/home/e403sa/Software/c/getipt_log.c",
+		"/home/e403sa/Software/c/fork-exec.c",
+		"/home/e403sa/Software/c/fork.c",
+		"/home/e403sa/Software/c/prog001.c",
+		"/home/e403sa/ConcordiaWiFi",
+		"/home/e403sa/wifi.conf",
+		"/home/e403sa/synclient.vals.conf",
+		"/home/e403sa/pspp.jnl",
+		"/home/e403sa/packages_local.txt",
+		"/home/e403sa/log.000",
+		"/home/e403sa/gcal.txt",
+		"/home/e403sa/dead.letter",
+		"/home/e403sa/Software/packages_aur.list",
+		"/home/e403sa/Software/packages_local.list",
+		"/home/e403sa/Software/packages_local_2.list",
+		"/run/media/e403sa/ARCH/usr/bin/acpi",
+		"/home/e403sa/Software/package.list",
+		"/home/e403sa/.config/conky/conky_bar_bottom.conf",
+		"/home/e403sa/.config/conky/conky_bar.conf",
+		"/run/media/e403sa/ARCH/etc/systemd/coredump.conf",
+		"/boot/grub/grub.test.new",
+		"/boot/grub/grub.cfg",
+		"/etc/i3/config",
+		"/home/e403sa/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/etc/i3/config.keycodes",
+		"/home/e403sa/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/e403sa/.config/sublime-text-2/Packages/User/Plain text.sublime-settings",
+		"/home/e403sa/.config/i3status/i3status.conf",
+		"/home/e403sa/.xinitrc",
+		"/run/media/e403sa/backup/vivobook/exec/bak_vivobook.sh",
+		"/home/e403sa/.fluxbox/lastwallpaper",
+		"/home/e403sa/.fluxbox/init",
+		"/home/e403sa/Downloads/conkyrc",
+		"/home/e403sa/.config/i3/config.bak5",
+		"/home/e403sa/Public/web001/index.html",
+		"/home/e403sa/Documents/i3 Reference Card_files/refcard_style.css",
+		"/run/media/e403sa/backup/vivobook/exec/rdiff_exclude",
+		"/run/media/e403sa/backup/vivobook/exec/clean_e403sa.sh",
+		"/run/media/e403sa/CE0F-7802/backup/bak_vivobook.sh",
+		"/run/media/e403sa/backup/vivobook/exec/clean_dv1680ca.sh",
+		"/home/e403sa/Public/wiki/lib/tpl/dokuwiki/css/mobile.less",
+		"/home/e403sa/Public/wiki/lib/tpl/dokuwiki/css/pagetools.less",
+		"/home/e403sa/Public/wiki/lib/tpl/dokuwiki/css/structure.less",
+		"/home/e403sa/Public/wiki/lib/tpl/dokuwiki/css/design.less",
+		"/home/e403sa/Public/wiki/lib/tpl/dokuwiki/style.ini",
+		"/home/e403sa/Public/wiki/lib/tpl/dokuwiki/css/basic.less",
+		"/home/e403sa/Public/wiki/lib/tpl/dokuwiki/main.php",
+		"/home/e403sa/Public/wiki/lib/tpl/dokuwiki/css/content.less",
+		"/home/e403sa/Public/wiki/install.php",
+		"/etc/httpd/conf/httpd.conf",
+		"/home/e403sa/Public/dokuwiki/lib/exe/css.php",
+		"/home/e403sa/Public/notes/install.php",
+		"/home/e403sa/Public/splitbrain-dokuwiki-9c5f311/install.php",
+		"/home/e403sa/Public/wiki/doku.php",
+		"/home/e403sa/Public/wiki/lib/tpl/dokuwiki2/style.ini",
+		"/etc/php/php.ini",
+		"/home/e403sa/Public/dokuwiki-2013-12-08/lib/styles/screen.css",
+		"/home/e403sa/Public/wiki/lib/exe/css.php",
+		"/home/e403sa/Public/wiki/lib/index.html",
+		"/home/e403sa/Public/wiki/index.php",
+		"/home/e403sa/Public/dokuwiki/lib/tpl/dokuwiki/style.ini",
+		"/home/e403sa/Public/dokuwiki/lib/tpl/dokuwiki/main.php",
+		"/home/e403sa/Public/notes/conf/dokuwiki.php",
+		"/home/e403sa/Public/notes/doku.php",
+		"/home/e403sa/Public/notes/lib/exe/css.php",
+		"/home/e403sa/Public/notes/lib/tpl/dokuwiki/style.ini",
+		"/home/e403sa/Public/notes/conf/scheme.conf",
+		"/home/e403sa/Public/notes/conf/users.auth.php",
+		"/home/e403sa/Public/notes/conf/local.php",
+		"/home/e403sa/Public/notes/lib/exe/fetch.php",
+		"/home/e403sa/Public/wiki.0/conf/acl.auth.php",
+		"/home/e403sa/Public/wiki.0/conf/local.php",
+		"/home/e403sa/Public/wiki1/conf/local.php",
+		"/home/e403sa/Public/wiki/conf/users.auth.php",
+		"/home/e403sa/Public/notes/conf/smileys.conf",
+		"/home/e403sa/Public/notes/feed.php",
+		"/home/e403sa/Public/wiki/conf/acl.auth.php.dist",
+		"/home/e403sa/Public/wiki/data/pages/wiki/welcome.txt",
+		"/home/e403sa/Public/wiki/data/pages/wiki/dokuwiki.txt",
+		"/home/e403sa/Public/wiki/conf/interwiki.conf",
+		"/home/e403sa/Public/wiki.0/lib/styles/all.css",
+		"/home/e403sa/Public/wiki/conf/smileys.conf",
+		"/home/e403sa/Public/wiki/data/pages/__template.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" {",
+			"mem",
+			"lo",
+			"2016",
+			"2015",
+			"mod+Shift",
+			"#dokuwiki__site",
+			"#dokuwiki_site",
+			"max-width",
+			"seed",
+			"i3lock"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "acct_1001.c",
+					"settings":
+					{
+						"buffer_size": 2339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2170,
+								2170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ledger.h",
+					"settings":
+					{
+						"buffer_size": 8674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5483,
+								5483
+							]
+						],
+						"settings":
+						{
+							"rulers":
+							[
+								120
+							],
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true,
+							"wrap_width": 120
+						},
+						"translation.x": 0.0,
+						"translation.y": 2745.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "journal.xml",
+					"settings":
+					{
+						"buffer_size": 2922,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2771,
+								2771
+							]
+						],
+						"settings":
+						{
+							"rulers":
+							[
+								70
+							],
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 70
+						},
+						"translation.x": 0.0,
+						"translation.y": 1035.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/e403sa/Software/c/accounting.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}

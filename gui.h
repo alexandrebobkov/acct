@@ -1,0 +1,26 @@
+// Text colors.
+#define black	"30m"
+#define red		"31m"	
+#define green	"32m"
+#define yellow 	"33m"
+#define blue	"34m"
+#define magenta	"35m"
+#define cyan	"36m"	
+#define white	"37m"
+// Backgrounds
+#define bg_black	"40"
+#define bg_red		"41"
+#define bg_green	"42"
+#define bg_yellow	"43"
+#define bg_blue		"44"
+#define bg_magenta	"45"
+#define bg_cyan		"46"
+#define bg_white	"47"
+// Styles.
+#define normal		"\033[0;"
+#define bold		"\033[1;"
+#define underline	"\033[4;"
+#define blinking	"\033[5;"
+#define strike		"\033[9;"
+// No formatting.
+#define none		"\033[0m"
