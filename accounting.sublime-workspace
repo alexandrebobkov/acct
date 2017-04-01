@@ -5,7 +5,27 @@
 		[
 			[
 				"dr",
-				"dr_acct_number"
+				"dr_acct"
+			],
+			[
+				"Je",
+				"JournalEntry"
+			],
+			[
+				"cr",
+				"cr_ttl"
+			],
+			[
+				"a",
+				"acct"
+			],
+			[
+				"print",
+				"printEntries"
+			],
+			[
+				"read",
+				"readEntry"
 			],
 			[
 				"addChart",
@@ -80,10 +100,6 @@
 				"Account"
 			],
 			[
-				"a",
-				"account"
-			],
-			[
 				"binding",
 				"binding_mode_indicator"
 			],
@@ -108,10 +124,10 @@
 	"buffers":
 	[
 		{
-			"file": "acct_1001.c",
+			"file": "acct_1002.c",
 			"settings":
 			{
-				"buffer_size": 2339,
+				"buffer_size": 4662,
 				"line_ending": "Unix"
 			}
 		},
@@ -119,7 +135,7 @@
 			"file": "ledger.h",
 			"settings":
 			{
-				"buffer_size": 8674,
+				"buffer_size": 15295,
 				"line_ending": "Unix"
 			}
 		},
@@ -127,7 +143,7 @@
 			"file": "journal.xml",
 			"settings":
 			{
-				"buffer_size": 2922,
+				"buffer_size": 2921,
 				"line_ending": "Unix"
 			}
 		}
@@ -164,10 +180,11 @@
 	},
 	"file_history":
 	[
+		"/home/e403sa/Software/c/acct_proj/acct_1002.pdf",
+		"/home/e403sa/Software/c/acct_proj/acct_1001.c",
 		"/home/e403sa/.config/conky/conky_date.conf",
 		"/home/e403sa/Software/c/acct_009.c",
 		"/home/e403sa/.config/i3/config",
-		"/home/e403sa/Software/c/acct_proj/acct_1001.c",
 		"/home/e403sa/Software/c/acct_009",
 		"/home/e403sa/Software/c/acct_proj/accounting.sublime-project",
 		"/home/e403sa/Software/c/acct_proj/gui.h",
@@ -290,8 +307,7 @@
 		"/home/e403sa/Public/wiki/data/pages/wiki/dokuwiki.txt",
 		"/home/e403sa/Public/wiki/conf/interwiki.conf",
 		"/home/e403sa/Public/wiki.0/lib/styles/all.css",
-		"/home/e403sa/Public/wiki/conf/smileys.conf",
-		"/home/e403sa/Public/wiki/data/pages/__template.txt"
+		"/home/e403sa/Public/wiki/conf/smileys.conf"
 	],
 	"find":
 	{
@@ -337,23 +353,23 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "acct_1001.c",
+					"file": "acct_1002.c",
 					"settings":
 					{
-						"buffer_size": 2339,
+						"buffer_size": 4662,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2170,
-								2170
+								3746,
+								3746
 							]
 						],
 						"settings":
@@ -362,7 +378,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 360.0,
+						"translation.y": 1215.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -372,15 +388,15 @@
 					"file": "ledger.h",
 					"settings":
 					{
-						"buffer_size": 8674,
+						"buffer_size": 15295,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5483,
-								5483
+								1140,
+								1140
 							]
 						],
 						"settings":
@@ -389,13 +405,13 @@
 							[
 								120
 							],
-							"syntax": "Packages/C++/C++.tmLanguage",
+							"syntax": "Packages/C++/C.tmLanguage",
 							"translate_tabs_to_spaces": false,
 							"word_wrap": true,
 							"wrap_width": 120
 						},
 						"translation.x": 0.0,
-						"translation.y": 2745.0,
+						"translation.y": 370.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -405,15 +421,15 @@
 					"file": "journal.xml",
 					"settings":
 					{
-						"buffer_size": 2922,
+						"buffer_size": 2921,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2771,
-								2771
+								1487,
+								1487
 							]
 						],
 						"settings":
@@ -427,7 +443,7 @@
 							"wrap_width": 70
 						},
 						"translation.x": 0.0,
-						"translation.y": 1035.0,
+						"translation.y": 135.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
